@@ -39,14 +39,12 @@
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" width="48" height="48" alt="Express" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;"></a>
       <br><strong>Express</strong>
     </td>
-    <td align="center" height="121" width="121">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="48" height="48" style="max-width: 100%;"/>
-  </a>
-  <br><strong>MySQL</strong>
-</td>
-  <td align="center" height="121" width="121">
+      <td align="center" height="121" width="121">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MongoDB" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a>
+      <br><strong>MySql</strong>
+    </td>
+      <td align="center" height="121" width="121">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" width="48" height="48" alt="MongoDB" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a>
       <br><strong>MongoDB</strong>
     </td>
   </tr>
