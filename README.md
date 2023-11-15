@@ -30,8 +30,9 @@
       <br><strong>Next.js</strong>
     </td>
     <td align="center" height="121" width="121">
-    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="styled components" width="48" height="48" style="max-width: 100%;"/> 
-      <br><strong>Styled components</strong>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://redux.js.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48" style="max-width: 100%;"/> 
+      <br><strong>Redux</strong>
     </td>
   </tr>
   <tr>
