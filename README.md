@@ -14,7 +14,8 @@
       <br><strong>HTML</strong>
     </td>
           <td align="center" height="121" width="121">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667"><img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" width="48" height="48" alt="Tailwind" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667"><img src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667",
+      width="48" height="48" alt="Tailwind" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"><a>
       <br><strong>Tailwind</strong>
     </td>
         <td align="center" height="121" width="121">
@@ -27,11 +28,11 @@
       <br><strong>Typescript</strong>
     </td>
       <td align="center" height="121" width="121">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="48" height="48" alt="React" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
       <br><strong>React</strong>
     </td>
    <td align="center" height="121" width="121">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26a528f097ecb4f4b3987ad74cd3086870e930d85124c2a352dbde9e3cd14cb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/26a528f097ecb4f4b3987ad74cd3086870e930d85124c2a352dbde9e3cd14cb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" width="48" height="48" alt="Next.js" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26a528f097ecb4f4b3987ad74cd3086870e930d85124c2a352dbde9e3cd14cb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
       <br><strong>Next.js</strong>
     </td>
     <td align="center" height="121" width="121">
@@ -42,11 +43,11 @@
   </tr>
   <tr>
   <td align="center" height="121" width="121">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" width="48" height="48" alt="Node.js" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a>
       <br><strong>Node.js</strong>
     </td>
       <td align="center" height="121" width="121">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" width="48" height="48" alt="Express" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;"></a>
       <br><strong>Express</strong>
     </td>
       <td align="center" height="121" width="121">
@@ -54,7 +55,7 @@
       <br><strong>MySql</strong>
     </td>
       <td align="center" height="121" width="121">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" width="48" height="48" alt="MongoDB" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a>
       <br><strong>MongoDB</strong>
     </td>
   </tr>
